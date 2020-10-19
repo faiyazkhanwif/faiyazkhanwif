@@ -1,8 +1,8 @@
 # Hi there, I am Faiyaz Khan. 👋
 
-- 🔭 Currently working on Android app development.
-- 🌱 Currently learning ReactJS.
-- 🤔 Getting myself into Component based development.
+- 🔭 Currently working on: Android app development.
+- 🌱 Currently learning: ReactJS, Laravel.
+- 🤔 Getting myself into: Component based development.
 - ⚡ Getting better at: Java, Python and JavaScript.
 - 📫 How to reach me: faiyazkhanwif@gmail.com
 
@@ -10,7 +10,7 @@
   - Languages: Java, Python, JavaScript, PHP.
   
   - Web frameworks/libraries: 
-    - Backend: ""
+    - Backend: Laravel.
     - Frontend: React.js, Bootstrap.
     
   - Database: MySQL, OracleSQL.
