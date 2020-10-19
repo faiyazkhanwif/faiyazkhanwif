@@ -1,4 +1,4 @@
-### Hi there, I am Faiyaz Khan. 👋
+# Hi there, I am Faiyaz Khan. 👋
 
 - 🔭 Currently working on Android app development.
 - 🌱 Currently learning ReactJS.
@@ -6,13 +6,13 @@
 - ⚡ Getting better at: Java, Python and JavaScript.
 - 📫 How to reach me: faiyazkhanwif@gmail.com
 
-{
-  "languages": ["Java", "Python", "JavaScript","PHP"],
-  "Web frameworks/libraries": {
-    "backend": ["--"],
-    "frontend": ["React.js", "Bootstrap"],
-  },
-  "database": ["MySQL", "OracleSQL"],
-  "misc": ["JavaFX","SceneBuilder"],
-  "tools": ["Visual Paradigm","IBM SPSS"]
-}
+### 🌱 Experienced with:
+  - Languages: Java, Python, JavaScript, PHP
+  
+  - Web frameworks/libraries: 
+    - Backend: ""
+    - Frontend": React.js, Bootstrap
+    
+  - Database: MySQL, OracleSQL
+  - Misc: JavaFX, SceneBuilder
+  - Tools: Visual Paradigm, IBM SPSS
