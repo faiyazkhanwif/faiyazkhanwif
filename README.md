@@ -7,12 +7,12 @@
 - 📫 How to reach me: faiyazkhanwif@gmail.com
 
 ### 🌱 Experienced with:
-  - Languages: Java, Python, JavaScript, PHP
+  - Languages: Java, Python, JavaScript, PHP.
   
   - Web frameworks/libraries: 
     - Backend: ""
-    - Frontend: React.js, Bootstrap
+    - Frontend: React.js, Bootstrap.
     
-  - Database: MySQL, OracleSQL
-  - Misc: JavaFX, SceneBuilder
-  - Tools: Visual Paradigm, IBM SPSS
+  - Database: MySQL, OracleSQL.
+  - Misc: JavaFX, SceneBuilder.
+  - Tools: Visual Paradigm, IBM SPSS.
