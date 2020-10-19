@@ -13,4 +13,4 @@
     - Frontend: React.js, Bootstrap.
   - Database: MySQL, OracleSQL.
   - Misc: JavaFX, SceneBuilder.
-  - Tools: Visual Paradigm, IBM SPSS.
+  - Tools: Android Studio, Visual Paradigm, IBM SPSS.
