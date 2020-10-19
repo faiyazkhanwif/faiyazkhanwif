@@ -11,7 +11,7 @@
   
   - Web frameworks/libraries: 
     - Backend: ""
-    - Frontend": React.js, Bootstrap
+    - Frontend: React.js, Bootstrap
     
   - Database: MySQL, OracleSQL
   - Misc: JavaFX, SceneBuilder
