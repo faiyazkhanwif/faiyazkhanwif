@@ -1,9 +1,8 @@
 # Hi there, I am Faiyaz Khan. 👋
 
 - 🔭 Currently working on: Android app development.
-- 🌱 Learning: ReactJS, Laravel.
+- ⚡ Learning: ReactJS, Laravel.
 - 🤔 Getting myself into: Component based development.
-- ⚡ Getting better at: JavaScript and PHP.
 - 📫 How to reach me: faiyazkhanwif@gmail.com
 
 ### 🌱 Experienced with:
