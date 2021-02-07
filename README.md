@@ -1,9 +1,8 @@
 # Hi there, I am Faiyaz Khan. 👋
 
-- 🔭 Working on: Android app development.
-- ⚡ Learning: Laravel.
+- ⚡ Working on: Android app development.
+- 🔭 Learning: Laravel.
 - 🤔 Getting into: Competitive Programming.
-- 📫 Email: faiyazkhanwif@gmail.com
 
 ### 🌱 Experienced with:
   - Languages: Java, Python, JavaScript, PHP. <img align="right" src="https://github-readme-stats.faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&count_private=true&&hide=stars,contribs&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
