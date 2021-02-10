@@ -1,4 +1,4 @@
-# Hi there, I am Faiyaz Khan. 👋
+# Hi there, I am Faiyaz! 👋
 
 - ⚡ Working on: Android app development.
 - 🔭 Learning: Laravel.
