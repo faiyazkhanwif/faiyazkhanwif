@@ -11,4 +11,4 @@
     - Frontend: Bootstrap.
   - Database: MySQL, OracleSQL.
   - Misc: JavaFX, Java Swing, SceneBuilder.
-  - Tools: Android Studio, Visual Paradigm, Lucid-Chart, IBM SPSS.
+  - Tools: Android Studio, Visual Paradigm, IBM SPSS.
