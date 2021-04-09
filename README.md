@@ -2,7 +2,7 @@
 
 - ⚡ Working on: Web development with CodeIgniter. 
 - 🔭 Exploring: Laravel. 
-- 🤔 Getting into: Competitive Programming. <img align="right" src="https://github-readme-stats.faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
+- 🤔 Getting into: Competitive Programming. <img align="right" src="https://github-readme-stats.faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
 
 ### 🌱 Experienced with:
   - Languages: Java, Python, PHP, JavaScript. 
