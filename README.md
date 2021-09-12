@@ -5,7 +5,7 @@
 - 🤔 Getting into: Automation with VBA. 
 
 ### 🌱 Experienced with:
-  - Languages: Java, Python, PHP, JavaScript. 
+  - Languages: Java, Python, PHP, JavaScript, VBA. 
   - Web frameworks/libraries:
     - Backend: CodeIgniter.
     - Frontend: Bootstrap.
