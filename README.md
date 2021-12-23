@@ -1,6 +1,7 @@
 # Hi there, I am Faiyaz! 👋
 
-- ⚡ Working on: Automation with Visual Basic. ![Alt Text](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+- ⚡ Working on: Automation with Visual Basic. <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="40" height="40"/>
+
 - 🔭 Exploring: ERP Systems. 
 - 🤔 Getting into: Automation with Power Automate. 
 
