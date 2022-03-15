@@ -22,5 +22,5 @@
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=dark)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
+<img align="right" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
 
