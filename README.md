@@ -6,14 +6,20 @@
 
 ### 🌱 Experienced with:
 ```json
-  - Languages: Java, Python, PHP, C#, Visual Basic, JavaScript. 
-  - Web frameworks/libraries:
-    - Backend: CodeIgniter.
-    - Frontend: Bootstrap.
-  - Database: MySQL, OracleSQL.
-  - Toolkit: JavaFX, Java Swing, SceneBuilder, PyQT5
-  - Workflow Automation: Microsoft Power Automate
-  - ITSM: ServiceNow, Jira
-  - ERP: Oracle JDE
-  - Documentation: Visual Paradigm, Lucid Chart, IBM SPSS.
- ```
+{
+  "Languages": ["Java", "python", "PHP", "C#", "Visual Basic", "JavaScript"],
+  "Web frameworks/libraries": {
+      "Backend": ["CodeIgniter"],
+      "frontend": ["Bootstrap"],
+  }
+  "Database": ["MySQL", "OracleSQL"],
+  "Toolkit": ["JavaFX", "Java Swing", "SceneBuilder", "PyQT5"],
+  "Workflow Automation": ["Microsoft Power Automate"],
+  "ITSM": ["ServiceNow, Jira"],
+  "Documentation": ["Visual Paradigm", "Lucid Chart", "IBM SPSS"]
+} 
+```
+<img align="left" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=dark)](https://git.io/streak-stats)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffaiyazkhanwif&label=Profile%20Visits&countColor=%23263759)
+
