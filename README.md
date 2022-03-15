@@ -5,7 +5,8 @@
 
 
 ### 🌱 Experienced with:
-  - Languages: Java, Python, PHP, JavaScript, Visual Basic. 
+```json
+  - Languages: Java, Python, PHP, C#, Visual Basic, JavaScript. 
   - Web frameworks/libraries:
     - Backend: CodeIgniter.
     - Frontend: Bootstrap.
@@ -15,3 +16,4 @@
   - ITSM: ServiceNow, Jira
   - ERP: Oracle JDE
   - Documentation: Visual Paradigm, Lucid Chart, IBM SPSS.
+ ```
