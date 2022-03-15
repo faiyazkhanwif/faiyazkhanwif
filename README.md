@@ -1,7 +1,9 @@
 # Hi there, I am Faiyaz! 👋
-- ⚡ Working on: Learning development with .NET 6.0. <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="295" height="195"/>
+- ⚡ Working on: Learning development with .NET 6.0.<img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="295" height="195"/>
 - 🔭 Exploring: Progressive Web Apps. 
 - 🐱‍🏍 Getting better at: Solving problems with C#. 
+
+
 
 
 ### 🌱 Experienced with:
@@ -19,9 +21,6 @@
   "Documentation": ["Visual Paradigm", "Lucid Chart", "IBM SPSS"]
 } 
 ```
-<img align="left" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=dark)](https://git.io/streak-stats)
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffaiyazkhanwif&label=Profile%20Visits&countColor=%23263759)
+<img align="left" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
 
