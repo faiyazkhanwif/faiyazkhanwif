@@ -12,7 +12,7 @@
   "Languages": ["Java", "python", "PHP", "C#", "Visual Basic", "JavaScript"],
   "Web frameworks/libraries": {
       "Backend": ["CodeIgniter"],
-      "frontend": ["Bootstrap"],
+      "Frontend": ["Bootstrap"],
   }
   "Database": ["MySQL", "OracleSQL"],
   "Toolkit": ["JavaFX", "Java Swing", "SceneBuilder", "PyQT5"],
