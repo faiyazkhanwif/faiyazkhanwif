@@ -8,12 +8,12 @@
 ### 🌱 Experienced with:
 ```json
 {
-  "Languages": ["Java", "python", "PHP", "C#", "Visual Basic", "JavaScript"],
+  "Languages": ["Java", "C#", "Python", "PHP", "Visual Basic", "JavaScript"],
   "Web frameworks/libraries": {
-      "Backend": ["CodeIgniter"],
-      "Frontend": ["Bootstrap"],
+      "Backend": [".NET 6.0, CodeIgniter"],
+      "Frontend": ["Blazor, Bootstrap"],
   }
-  "Database": ["MySQL", "OracleSQL"],
+  "Database": ["MySQL", "MSSQL", "OracleSQL"],
   "Toolkit": ["JavaFX", "Java Swing", "SceneBuilder", "PyQT5"],
   "Workflow Automation": ["Microsoft Power Automate"],
   "ITSM": ["ServiceNow, Jira"],
