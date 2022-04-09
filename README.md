@@ -12,12 +12,13 @@
   "Web frameworks/libraries": {
       "Backend": [".NET 6.0, CodeIgniter"],
       "Frontend": ["Blazor, Bootstrap"],
+      "ORM": ["Entity Framework Core"]
   }
   "Database": ["MySQL", "MSSQL", "OracleSQL"],
   "Toolkit": ["JavaFX", "Java Swing", "SceneBuilder", "PyQT5"],
-  "Workflow Automation": ["Microsoft Power Automate"],
-  "ITSM": ["ServiceNow, Jira"],
-  "Documentation": ["Visual Paradigm", "Lucid Chart", "IBM SPSS"]
+  "Workflow Automation": ["Microsoft Power Automate", "VBA"],
+  "IT Service Management": ["ServiceNow, Jira"],
+  "Documentation": ["Visual Paradigm", "Lucid Chart", "Marvel", "IBM SPSS"]
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
