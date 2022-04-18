@@ -8,17 +8,17 @@
 ### 🌱 Experienced with:
 ```json
 {
-  "Languages": ["java", "c#", "python", "php", "visualbasic", "javascript"],
-  "Web frameworks/libraries": {
-      "Backend": [".net 6.0, codeigniter"],
+  "Languages": ["java", "c#", "python", "php", "visual_basic", "javascript"],
+  "Web_frameworks/libraries": {
+      "Backend": [".net_6.0, codeigniter"],
       "Frontend": ["blazor, bootstrap"],
-      "ORM": ["entity framework core"]
+      "ORM": ["entity_framework_core"]
   }
   "Database": ["mysql", "mssql", "oraclesql"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
-  "Workflow Automation": ["microsoft power automate", "vba"],
-  "IT Service Management": ["servicenow, jira"],
-  "Documentation": ["visual paradigm", "lucidchart", "marvel", "ibm_spss"]
+  "Workflow_Automation": ["microsoft_power_automate", "vba"],
+  "IT_Service_Management": ["servicenow, jira"],
+  "Documentation": ["visual_paradigm", "lucidchart", "marvel", "ibm_spss"]
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
