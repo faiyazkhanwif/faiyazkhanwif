@@ -18,7 +18,7 @@
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
   "IT_Service_Management": ["servicenow, jira"],
-  "Documentation": ["visual_paradigm", "lucidchart", "marvel", "ibm_spss"]
+  "Documentation": ["visual_paradigm", "lucidchart", "marvel", "swagger"]
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
