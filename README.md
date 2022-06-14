@@ -13,7 +13,7 @@
       "Backend": [".net_6.0, codeigniter"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
       "ORM": ["entity_framework_core"]
-  }
+  },
   "Database": ["mysql", "mssql", "oraclesql"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
