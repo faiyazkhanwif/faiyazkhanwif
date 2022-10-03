@@ -9,7 +9,7 @@
 ```json
 {
   "Languages": ["java", "c#", "python", "php", "visual_basic", "javascript"],
-  "Web_frameworks/libraries": {
+  "Frameworks/libraries": {
       "Backend": [".net_6.0, codeigniter"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
       "ORM": ["entity_framework_core"]
