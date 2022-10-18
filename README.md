@@ -15,6 +15,8 @@
       "ORM": ["entity_framework_core"]
   },
   "Database": ["mysql", "mssql", "oraclesql"],
+  "Web_Server": ["iis"],
+  "Web_Standards": ["json","restful_api"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
   "IT_Service_Management": ["servicenow, jira"],
