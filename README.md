@@ -8,7 +8,7 @@
 ### 🌱 Experienced with:
 ```json
 {
-  "Languages": ["java", "c#", "python", "php", "visual_basic", "javascript"],
+  "Languages": ["java", "c#", "python", "php", "vb.net", "javascript"],
   "Frameworks/libraries": {
       "Backend": [".net_6.0, codeigniter"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
