@@ -18,9 +18,10 @@
   "Web_Server": ["iis"],
   "Web_Standards": ["json","restful_api"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
+  "API Testing": ["postman", "swagger"]
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
   "IT_Service_Management": ["servicenow, jira"],
-  "Documentation": ["visual_paradigm", "lucidchart", "marvel", "swagger"]
+  "Documentation": ["visual_paradigm", "lucidchart", "marvel"]
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
