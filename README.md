@@ -8,13 +8,13 @@
 ### 🌱 Experienced with:
 ```json
 {
-  "Languages": ["java", "c#", "python", "php", "vb.net", "javascript"],
+  "Languages": ["c#", "java", "vb.net", "php", "python", "javascript"],
   "Frameworks/libraries": {
       "Backend": [".net_6.0, codeigniter"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
       "ORM": ["entity_framework_core"]
   },
-  "Database": ["mysql", "mssql", "oraclesql"],
+  "Database": ["mssql", "mysql", "oraclesql"],
   "Web_Server": ["iis"],
   "Web_Standards": ["json","restful_api"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
