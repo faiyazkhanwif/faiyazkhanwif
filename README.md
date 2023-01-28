@@ -15,7 +15,7 @@
       "ORM": ["entity_framework_core"]
   },
   "Database": ["mssql", "mysql", "oraclesql"],
-  "Web_Server": ["iis"],
+  "Web_Server": ["ms_iis"],
   "Web_Standards": ["json","restful_api"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "API Testing": ["postman", "swagger"]
