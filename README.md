@@ -21,7 +21,7 @@
   "API_Testing": ["postman", "swagger"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
-  "IT_Service_Management": ["servicenow, jira"],
+  "IT_Service_Management": ["servicenow", "jira"],
   "Documentation": ["visual_paradigm", "lucidchart", "marvel"]
 } 
 ```
