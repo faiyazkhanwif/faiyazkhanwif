@@ -12,13 +12,14 @@
   "Frameworks/libraries": {
       "Backend": [".net7, .net6, codeigniter3"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
+      "ComponentSuite: ["syncfusion_blazor", "devexpress_reporting"],
       "ORM": ["entity_framework_core"]
   },
   "Database": ["mssql", "mysql", "oraclesql"],
   "Web_Server": ["ms_iis"],
   "Web_Standards": ["json","restful_api"],
+  "API Testing": ["postman", "swagger"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
-  "API Testing": ["postman", "swagger"]
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
   "IT_Service_Management": ["servicenow, jira"],
   "Documentation": ["visual_paradigm", "lucidchart", "marvel"]
