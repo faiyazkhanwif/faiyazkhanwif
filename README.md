@@ -12,7 +12,7 @@
   "Frameworks/libraries": {
       "Backend": [".net7, .net6, codeigniter3"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
-      "ComponentSuite: ["syncfusion_blazor", "devexpress_reporting"],
+      "ComponentSuite": ["syncfusion_blazor", "devexpress_reporting"],
       "ORM": ["entity_framework_core"]
   },
   "Database": ["mssql", "mysql", "oraclesql"],
