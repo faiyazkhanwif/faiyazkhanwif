@@ -10,7 +10,7 @@
 {
   "Languages": ["c#", "java", "vb.net", "php", "python", "javascript"],
   "Frameworks/libraries": {
-      "Backend": [".net_6.0, codeigniter"],
+      "Backend": [".net(7.0, 6.0), codeigniter"],
       "Frontend": ["blazor, bootstrap, tailwindcss"],
       "ORM": ["entity_framework_core"]
   },
