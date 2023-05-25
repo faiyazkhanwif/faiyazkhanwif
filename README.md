@@ -10,8 +10,8 @@
 {
   "Languages": ["c#", "java", "vb.net", "php", "python", "javascript"],
   "Frameworks/libraries": {
-      "Backend": [".net7, .net6, codeigniter3"],
-      "Frontend": ["blazor, bootstrap, tailwindcss"],
+      "Backend": [".net7", ".net6", "codeigniter3"],
+      "Frontend": ["blazor", "bootstrap", "tailwindcss"],
       "ComponentSuite": ["syncfusion_blazor", "devexpress_reporting"],
       "ORM": ["entity_framework_core"]
   },
