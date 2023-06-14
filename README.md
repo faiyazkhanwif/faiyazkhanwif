@@ -21,8 +21,7 @@
   "API_Testing": ["postman", "swagger"],
   "Toolkit": ["javafx", "java_swing", "scenebuilder", "pyqt5"],
   "Workflow_Automation": ["microsoft_power_automate", "vba"],
-  "IT_Service_Management": ["servicenow", "jira"],
-  "Documentation": ["visual_paradigm", "lucidchart", "marvel"]
+  "Data_Visualization": ["microsoft_power_bi"]
 } 
 ```
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
