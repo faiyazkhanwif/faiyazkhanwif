@@ -1,7 +1,7 @@
 # Hi there, I am Faiyaz! 👋
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/faiyazkhan180720/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:faiyazkhanwif@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)<img align="right" src="https://github-readme-stats-updated-faiyazkhanwif.vercel.app/api?username=faiyazkhanwif&&show_icons=true&hide=stars,issues&hide_border=true&hide_rank=true&count_private=true&title_color=black&icon_color=black&text_color=F5F5F5&bg_color=000000">
-- 🛠️ Building: Building Blazor WebAssembly App with .NET 7.0.
+- 🛠️ Building: Building APIs and Blazor WASM App with .NET 7.0.
 - 🔭 Exploring: xUnit Testing Tool.
 - 💡 Learning: Authentication and Authorization(JWT, OAUTH2.0).
 
