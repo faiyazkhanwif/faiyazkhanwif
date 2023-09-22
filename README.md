@@ -24,6 +24,6 @@
   "Data_Visualization": ["microsoft_power_bi"]
 } 
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=faiyazkhanwif&theme=github-dark-blue)](https://git.io/streak-stats)
 <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="330" height="195">
 
