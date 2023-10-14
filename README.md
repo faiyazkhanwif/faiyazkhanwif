@@ -10,7 +10,7 @@
 {
   "Languages": ["c#", "java", "vb.net", "php", "python", "javascript"],
   "Frameworks/libraries": {
-      "Backend": ["asp.net core (.net7)", ".net framework 4.5", "codeigniter3"],
+      "Backend": ["asp.net_core(.net7)", ".net_framework4.5", "codeigniter3"],
       "Frontend": ["blazor", "bootstrap", "tailwindcss"],
       "Component_Suite": ["syncfusion_blazor", "devexpress_reporting"],
       "ORM": ["entity_framework_core"]
