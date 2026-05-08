@@ -1,0 +1,220 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Rotating computer science facts">
+  <style>
+    text { font-family: Segoe UI, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #5C2D91; }
+    .fact { opacity: 0; animation-name: showFact; animation-duration: 1000s; animation-timing-function: linear; animation-iteration-count: infinite; }
+    .cursor { animation: blink 1s steps(2, start) infinite; }
+    @keyframes showFact { 0%, 0.42% { opacity: 1; } 0.5%, 100% { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="type-reveal">
+      <rect x="40" y="0" width="0" height="80">
+        <animate attributeName="width" values="0;1120;1120" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="80" fill="transparent" />
+  <g clip-path="url(#type-reveal)">
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 0s">Did you know? SQL was originally called SEQUEL before trademark issues shortened the name 🗄️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 5s">Did you know? A famous early computer bug was an actual moth found in a Harvard Mark II relay 🐛</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 10s">Did you know? FORTRAN helped make high-level programming practical in 1957 🧮</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 15s">Did you know? COBOL was designed so business programs could read more like English 📜</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 20s">Did you know? C was created alongside Unix and still shapes modern systems programming ⚙️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 25s">Did you know? Git was created in 2005 to help manage Linux kernel development 🌿</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 30s">Did you know? The word &quot;debugging&quot; existed before software but programmers made it iconic 🔧</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 35s">Did you know? The first web browser was also an editor, so the web was born read-write 🌐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 40s">Did you know? The original World Wide Web ran on a NeXT computer with a note asking people not to power it off 💻</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 45s">Did you know? Java was once called Oak before becoming Java ☕</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 50s">Did you know? Python is named after Monty Python, not the snake 🎭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 55s">Did you know? JavaScript was created in about ten days 🕒</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 60s">Did you know? TypeScript adds types but still compiles down to JavaScript 🧩</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 65s">Did you know? C# was first released with the .NET platform in the early 2000s 💜</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 70s">Did you know? The .NET name originally stood for Microsoft&apos;s vision of internet-connected software 🌐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 75s">Did you know? Blazor can run .NET code in the browser using WebAssembly 🧪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 80s">Did you know? REST is an architectural style, not a protocol 🏛️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 85s">Did you know? HTTP status code 418 says &quot;I&apos;m a teapot&quot; 🫖</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 90s">Did you know? DNS is often called the phonebook of the internet, but it behaves more like a distributed cache 📇</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 95s">Did you know? A cache can make code faster and also make bugs harder to reproduce 🧊</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 100s">Did you know? The fastest database query is the one you do not run 🚀</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 105s">Did you know? Indexes speed up reads but can slow down writes 📚</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 110s">Did you know? A missing database index can turn a simple lookup into a table-wide treasure hunt 🕵️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 115s">Did you know? SQL joins are where data relationships either shine or quietly explode 🔗</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 120s">Did you know? NULL is not zero, not false, and not an empty string 🕳️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 125s">Did you know? In SQL, NULL usually means &quot;unknown&quot;, which is why comparisons get weird ❓</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 130s">Did you know? Time zones are one of software engineering&apos;s most reliable sources of pain 🕰️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 135s">Did you know? Leap seconds exist because Earth&apos;s rotation is not perfectly tidy 🌍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 140s">Did you know? Floating-point math can make 0.1 + 0.2 look suspicious 🧮</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 145s">Did you know? Computers store many decimal fractions approximately, not exactly 🎯</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 150s">Did you know? Naming things is jokingly called one of the hardest problems in computer science 🏷️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 155s">Did you know? Off-by-one errors are tiny mistakes with enormous confidence 😅</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 160s">Did you know? The phrase &quot;works on my machine&quot; is a deployment strategy only in nightmares 🧯</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 165s">Did you know? Rubber duck debugging works because explaining a bug forces your brain to slow down 🦆</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 170s">Did you know? A race condition can disappear the moment you try to observe it 🏁</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 175s">Did you know? Concurrency is not the same as parallelism 🧵</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 180s">Did you know? A deadlock is two or more tasks politely waiting forever 🤝</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 185s">Did you know? A mutex is basically a tiny bouncer for shared data 🚪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 190s">Did you know? Immutable data can make whole classes of bugs vanish 🧊</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 195s">Did you know? Recursion is a function calling itself until it remembers to stop 🔁</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 200s">Did you know? The base case is the exit sign in a recursive maze 🚪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 205s">Did you know? A stack overflow can happen when recursion forgets its manners 📚</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 210s">Did you know? Big O notation describes growth, not exact speed 📈</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 215s">Did you know? O(1) does not always mean fast, it means constant with input size ⚡</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 220s">Did you know? Binary search is fast because it throws away half the problem every step ✂️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 225s">Did you know? Hash tables are fast until collisions show up at the party 🎲</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 230s">Did you know? Sorting algorithms can be stable, which means equal items keep their order 🧷</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 235s">Did you know? Quicksort is often fast in practice but has a scary worst case 🎢</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 240s">Did you know? Merge sort needs extra space but keeps its promises nicely 📦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 245s">Did you know? The halting problem proves some questions about programs cannot be solved generally 🛑</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 250s">Did you know? Turing machines are simple on paper and terrifyingly powerful in theory 🧠</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 255s">Did you know? A compiler is a translator with very strong opinions 🗣️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 260s">Did you know? An interpreter runs code more like a live conversation 🎙️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 265s">Did you know? Just-in-time compilation waits until runtime to get clever ⚡</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 270s">Did you know? Garbage collection saves you from some memory bugs and introduces timing surprises 🧹</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 275s">Did you know? Memory leaks are not always dramatic, sometimes they just slowly eat the room 🪣</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 280s">Did you know? A pointer is just an address, which is why it can be both powerful and chaotic 📍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 285s">Did you know? A null pointer is software&apos;s way of pointing at absolutely nothing 🕳️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 290s">Did you know? Buffer overflows became famous because programs trusted input too much 🧨</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 295s">Did you know? Input validation is security wearing a boring hat 🛡️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 300s">Did you know? The best error messages tell you what happened and what to do next 🧭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 305s">Did you know? Logs are time machines for production bugs 🕰️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 310s">Did you know? A good trace ID can turn chaos into a breadcrumb trail 🍞</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 315s">Did you know? Observability asks systems to explain themselves before they break 🔍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 320s">Did you know? Monitoring tells you something is wrong, observability helps you ask why 📡</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 325s">Did you know? A health check that only says &quot;OK&quot; may be hiding an entire disaster 🚦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 330s">Did you know? Retries can fix flaky failures or accidentally amplify outages 🔁</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 335s">Did you know? Circuit breakers in software borrow their name from electrical safety ⚡</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 340s">Did you know? Idempotent operations can be retried without doubling the damage 🧯</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 345s">Did you know? A distributed system is one where a computer you forgot existed can ruin your day 🌐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 350s">Did you know? Network calls are just function calls with weather conditions ⛈️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 355s">Did you know? Latency is why &quot;just one more API call&quot; is rarely just one more API call 🐢</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 360s">Did you know? CAP theorem says distributed databases cannot have every nice property during partitions ⚖️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 365s">Did you know? Eventual consistency means the system is allowed to be temporarily awkward ⏳</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 370s">Did you know? Message queues help systems breathe instead of shouting directly at each other 📬</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 375s">Did you know? A queue can turn traffic spikes into orderly waiting lines 🎟️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 380s">Did you know? Backpressure is software saying &quot;please slow down before I fall over&quot; 🛑</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 385s">Did you know? A cron job is just time-based optimism 🗓️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 390s">Did you know? Batch jobs usually fail at the least convenient hour 🌙</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 395s">Did you know? The hardest part of scheduling is often the calendar, not the code 📅</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 400s">Did you know? Caching invalidation is famously one of computing&apos;s hardest practical problems 🧽</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 405s">Did you know? A stale cache can make yesterday look like today 🧊</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 410s">Did you know? CDNs make the internet feel closer by copying content around the world 🌍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 415s">Did you know? Compression trades CPU work for fewer bytes on the wire 📦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 420s">Did you know? Gzip can make text shrink dramatically because text repeats itself a lot 🗜️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 425s">Did you know? JSON won the web partly because humans can read it without special tools 📄</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 430s">Did you know? XML is verbose because it brought structure and self-description to data 🏗️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 435s">Did you know? YAML is friendly until indentation becomes a crime scene 📐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 440s">Did you know? CSV sounds simple until a comma appears inside a quoted value 🧾</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 445s">Did you know? Regular expressions are tiny pattern machines disguised as punctuation 🧬</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 450s">Did you know? A bad regex can accidentally become a denial-of-service machine 🧨</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 455s">Did you know? Unicode lets software represent writing systems far beyond ASCII 🌍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 460s">Did you know? Emojis can be multiple code points pretending to be one character 🙂</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 465s">Did you know? String length is surprisingly complicated once Unicode enters the room 🧵</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 470s">Did you know? ASCII has 128 original characters, which is tiny by modern standards 🔤</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 475s">Did you know? The newline can be LF, CRLF, or a tiny cross-platform headache ↩️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 480s">Did you know? Endianness is about which byte gets to stand first 🥄</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 485s">Did you know? The phrase &quot;little endian&quot; comes from Gulliver&apos;s Travels 📖</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 490s">Did you know? A bit can only be 0 or 1, but enough bits can cause a global incident 💡</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 495s">Did you know? One byte is usually eight bits, but computing history has exceptions 🧱</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 500s">Did you know? Base64 makes binary data look like text so systems can carry it safely 🧃</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 505s">Did you know? Checksums catch accidental changes, but cryptographic hashes fight tampering 🔐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 510s">Did you know? A hash function should make tiny input changes look wildly different 🎲</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 515s">Did you know? Passwords should be hashed, salted, and never stored as plain text 🧂</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 520s">Did you know? Salting passwords helps defeat precomputed rainbow tables 🌈</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 525s">Did you know? Encryption protects data by making it unreadable without the right key 🔑</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 530s">Did you know? TLS is why the lock icon matters in your browser 🔒</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 535s">Did you know? HTTPS is HTTP wrapped in encrypted transport armor 🛡️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 540s">Did you know? JWTs are signed, not automatically encrypted 🪪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 545s">Did you know? A JWT can be read by anyone who has it unless its contents are encrypted 👀</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 550s">Did you know? Refresh tokens are powerful and should be treated like keys 🔑</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 555s">Did you know? The principle of least privilege is security&apos;s version of &quot;need to know&quot; 🧷</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 560s">Did you know? SQL injection works when data is accidentally treated like code 💉</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 565s">Did you know? Parameterized queries are the seatbelts of database access 🪑</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 570s">Did you know? Cross-site scripting happens when hostile scripts sneak into trusted pages 🕸️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 575s">Did you know? Authentication asks who you are, authorization asks what you can do 🪪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 580s">Did you know? A 401 says &quot;please authenticate&quot;, while a 403 says &quot;you still cannot enter&quot; 🚪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 585s">Did you know? A 404 can mean missing, hidden, or &quot;we are not telling you&quot; 🕵️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 590s">Did you know? A 500 error is the server quietly admitting it had a bad moment 🧯</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 595s">Did you know? Rate limiting is how APIs tell enthusiastic clients to take a breath 🌬️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 600s">Did you know? Pagination keeps APIs from dumping the whole warehouse at once 📦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 605s">Did you know? Cursor pagination is often safer than offset pagination for changing data 🧭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 610s">Did you know? API versioning exists because clients remember old promises 📌</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 615s">Did you know? Backward compatibility is kindness for machines you have never met 🤝</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 620s">Did you know? Semantic versioning turns version numbers into tiny contracts 🧾</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 625s">Did you know? A breaking change can be one removed field away from chaos 💥</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 630s">Did you know? Feature flags let teams ship code without turning it on yet 🚩</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 635s">Did you know? Canary releases borrow their name from an old warning system 🐤</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 640s">Did you know? Blue-green deployment swaps traffic between two production environments 🔵</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 645s">Did you know? Rollbacks are easier when deployments are boring and repeatable 🔙</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 650s">Did you know? CI is the robot that asks &quot;does this still work?&quot; after every change 🤖</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 655s">Did you know? CD can mean continuous delivery or continuous deployment, and teams argue about it 🚚</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 660s">Did you know? A flaky test is a trust problem wearing a test name 🎭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 665s">Did you know? Unit tests are fast because they keep the world small 🧪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 670s">Did you know? Integration tests prove your code can talk to its neighbors 🧩</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 675s">Did you know? End-to-end tests are useful but can be slow drama queens 🎬</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 680s">Did you know? Test data is often the secret villain of reliable testing 🧫</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 685s">Did you know? Mocking too much can test your imagination instead of your software 🎭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 690s">Did you know? Code coverage can tell what ran, not whether the test was good 📊</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 695s">Did you know? A passing test suite can still miss the bug users care about 🕳️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 700s">Did you know? Refactoring changes structure while preserving behavior 🧱</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 705s">Did you know? Technical debt is not always bad, but the interest can be brutal 💳</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 710s">Did you know? A small clean function can be more valuable than a clever one 🧼</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 715s">Did you know? The best abstraction removes confusion, not just lines of code 🪄</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 720s">Did you know? Premature abstraction can be as painful as duplication 🧩</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 725s">Did you know? The DRY principle means avoid duplicated knowledge, not every repeated line 🌵</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 730s">Did you know? SOLID is about design pressure, not magic architecture dust 🧱</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 735s">Did you know? Dependency injection is a way to give code its tools from the outside 🧰</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 740s">Did you know? Inversion of control means the framework calls you, not the other way around 🔄</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 745s">Did you know? Clean architecture is mostly about keeping business rules away from noisy details 🏛️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 750s">Did you know? A monolith can be excellent if it is modular and well-kept 🏢</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 755s">Did you know? Microservices turn local complexity into network complexity 🌉</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 760s">Did you know? Splitting a bad monolith can create many tiny bad services 🧨</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 765s">Did you know? The database is often the real integration point in enterprise systems 🧲</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 770s">Did you know? Stored procedures can be brilliant or terrifying depending on discipline 🧾</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 775s">Did you know? ORMs save time until you forget they generate SQL 🧠</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 780s">Did you know? The N+1 query problem is a loop quietly ordering too many database trips 🚕</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 785s">Did you know? Transactions give databases a way to say &quot;all or nothing&quot; 🤝</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 790s">Did you know? ACID is not just chemistry, it is database reliability language 🧪</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 795s">Did you know? Isolation levels decide how much weirdness concurrent transactions may see 👀</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 800s">Did you know? Deadlocks can happen in databases too, not just threads 🔒</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 805s">Did you know? Normalization reduces duplication, denormalization sometimes buys speed ⚖️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 810s">Did you know? A good schema is documentation that the database enforces 📐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 815s">Did you know? Migrations are database history written in executable form 🧾</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 820s">Did you know? A backup you have never restored is mostly a hope file 🧯</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 825s">Did you know? Disaster recovery plans matter most when everyone is tired 🌧️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 830s">Did you know? The cloud is just someone else&apos;s computers with APIs ☁️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 835s">Did you know? Containers package apps with their dependencies, not an entire magic universe 📦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 840s">Did you know? Docker images are layered, which is why build order matters 🧅</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 845s">Did you know? Kubernetes is powerful because distributed systems need traffic control 🚦</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 850s">Did you know? YAML errors have launched many debugging journeys in Kubernetes 🧭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 855s">Did you know? Infrastructure as code makes servers reviewable like application code 🏗️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 860s">Did you know? Environment variables are configuration until secrets accidentally leak 🚨</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 865s">Did you know? Secrets belong in secret stores, not in commits 🔐</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 870s">Did you know? Git remembers more than people expect, including secrets you thought you deleted 🕰️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 875s">Did you know? A Git commit is identified by a hash of its contents and history 🔗</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 880s">Did you know? Git branches are lightweight pointers, not full copies of your project 🌿</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 885s">Did you know? A rebase rewrites history, which is elegant until shared branches get involved ✍️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 890s">Did you know? Merge conflicts are Git asking humans to make a decision 🧑‍⚖️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 895s">Did you know? The commit message is a note to a future human, possibly future you 📝</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 900s">Did you know? Good README files reduce support load before anyone opens an issue 📘</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 905s">Did you know? Documentation goes stale unless it lives near the work 📎</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 910s">Did you know? A diagram can explain a system faster than a thousand defensive comments 🗺️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 915s">Did you know? Comments should explain why, because code already shows what 🧠</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 920s">Did you know? TODO comments are tiny promises with no due date ⏰</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 925s">Did you know? Code review is partly bug hunting and partly knowledge transfer 🔍</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 930s">Did you know? The best pull requests are small enough for reviewers to stay awake ☕</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 935s">Did you know? Pair programming has one person driving and one person watching for cliffs 🧭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 940s">Did you know? Agile originally emphasized people and working software, not ceremony 📣</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 945s">Did you know? Estimates are guesses wearing office clothes 👔</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 950s">Did you know? The mythical man-month warns that adding people to a late project can make it later 📚</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 955s">Did you know? Conway&apos;s Law says systems often mirror the teams that build them 🏢</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 960s">Did you know? The fastest code is sometimes the code you delete ✂️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 965s">Did you know? A one-line fix can require three days of understanding 🧩</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 970s">Did you know? Production bugs love assumptions more than they love code 🕵️</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 975s">Did you know? The user&apos;s path through software is often different from the developer&apos;s mental path 🧭</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 980s">Did you know? Accessibility improvements often make software better for everyone ♿</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 985s">Did you know? Dark mode is easy until charts, contrast, and brand colors join the meeting 🌙</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 990s">Did you know? Performance work starts with measurement because vibes are terrible profilers 📏</text>
+  <text class="fact" x="600" y="40" text-anchor="middle" dominant-baseline="middle" style="animation-delay: 995s">Did you know? The most reliable systems are usually boring in exactly the right places 🧱</text>
+  </g>
+  <text class="cursor" x="1130" y="40" dominant-baseline="middle">|</text>
+</svg>
