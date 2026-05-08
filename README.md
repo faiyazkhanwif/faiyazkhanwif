@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:512BD4,50:5C2D91,100:0078D4&amp;height=180&amp;section=header&amp;text=Faiyaz%20Khan&amp;fontSize=65&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%7C%20.NET%20%C2%B7%20SQL%20%C2%B7%20Automation&amp;descAlignY=60&amp;descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5C2D91&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Slow+systems+%E2%86%92+fast+%E2%9A%A1+%7C+Manual+work+%E2%86%92+automated+%F0%9F%A4%96;Messy+data+%E2%86%92+useful+%F0%9F%93%8A+%7C+Broken+APIs+%E2%86%92+predictable+%F0%9F%94%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=5C2D91&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=I+build+enterprise+systems+that+don%27t+fall+apart.;.NET+and+SQL+at+the+core%2C+Python%2C+Java%2C+and+automation+tools+when+the+job+calls+for+them.)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,8 +53,6 @@ SOLID · unit testing · CI/CD · Swagger docs · Agile · technical writing
 ---
 
 <div align="center">
-
-I build enterprise systems that don't fall apart. .NET and SQL at the core, Python, Java, and automation tools when the job calls for them.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,100:512BD4&amp;height=100&amp;section=footer" />
 
