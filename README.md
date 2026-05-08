@@ -8,7 +8,7 @@
 
 ---
 
-I build backend systems that don't fall apart. .NET and SQL at the core — Python, Java, and automation tools when the job calls for them. I write code so the next person doesn't suffer.
+I build backend systems that don't fall apart. .NET and SQL at the core, Python, Java, and automation tools when the job calls for them.
 
 ---
 
@@ -50,16 +50,13 @@ SOLID · unit testing · CI/CD · Swagger docs · Agile · technical writing
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=faiyazkhanwif&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazkhanwif&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiyazkhanwif&amp;theme=tokyonight" />
 
 </div>
 
 ---
 
 <div align="center">
-
-`🐌→⚡ slow becomes fast` · `🖱️→🤖 manual becomes automated` · `🌀→📌 chaos becomes documented`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,100:512BD4&amp;height=100&amp;section=footer" />
 
