@@ -8,10 +8,6 @@
 
 ---
 
-I build backend systems that don't fall apart. .NET and SQL at the core, Python, Java, and automation tools when the job calls for them.
-
----
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -57,6 +53,8 @@ SOLID · unit testing · CI/CD · Swagger docs · Agile · technical writing
 ---
 
 <div align="center">
+
+I build enterprise systems that don't fall apart. .NET and SQL at the core, Python, Java, and automation tools when the job calls for them.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,100:512BD4&amp;height=100&amp;section=footer" />
 
